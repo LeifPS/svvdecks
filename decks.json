@@ -271,5 +271,5 @@
       {"name":"Matangi",        "cost":5,"atk":4,"hp":7,  "abilities":["hinterhalt"],"emoji":"🌀"},
       {"name":"Matangi",        "cost":5,"atk":4,"hp":7,  "abilities":["hinterhalt"],"emoji":"🌀"}
     ]
-  },
+  }
 
