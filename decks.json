@@ -176,9 +176,9 @@
     "grad": "linear-gradient(135deg,#1a0808,#2a1008)",
     "desc": "Riesige Bestien & Formation",
     "cards": [
-      {"name":"Kristalldrache", "cost":5,"atk":7,"hp":7,  "abilities":[],            "emoji":"💎"},
-      {"name":"Kristalldrache", "cost":5,"atk":7,"hp":7,  "abilities":[],            "emoji":"💎"},
-      {"name":"Kristalldrache", "cost":5,"atk":7,"hp":7,  "abilities":[],            "emoji":"💎"},
+      {"name":"Kristalldrache", "cost":5,"atk":3,"hp":9,  "abilities":["riesig"],            "emoji":"💎"},
+      {"name":"Kristalldrache", "cost":5,"atk":3,"hp":9,  "abilities":["riesig"],            "emoji":"💎"},
+      {"name":"Kristalldrache", "cost":5,"atk":3,"hp":9,  "abilities":["riesig"],            "emoji":"💎"},
       {"name":"Blitzdrache",    "cost":3,"atk":1,"hp":11, "abilities":[],            "emoji":"⚡"},
       {"name":"Blitzdrache",    "cost":3,"atk":1,"hp":11, "abilities":[],            "emoji":"⚡"},
       {"name":"Blitzdrache",    "cost":3,"atk":1,"hp":11, "abilities":[],            "emoji":"⚡"},
