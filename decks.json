@@ -237,4 +237,39 @@
       {"name":"Speerkämpfer",  "cost":3,"atk":4,"hp":3, "abilities":["formation"], "emoji":"🗡️"}
     ]
   }
-}
+},
+"vaiana": {
+    "name": "Vaiana",
+    "icon": "🌊",
+    "color": "#0080c0",
+    "grad": "linear-gradient(135deg,#001a2e,#003a5c)",
+    "desc": "Ozean-Krieger & Formation",
+    "cards": [
+      {"name":"Kakamora",       "cost":1,"atk":0,"hp":3,  "abilities":["formation"], "emoji":"🥥"},
+      {"name":"Kakamora",       "cost":1,"atk":0,"hp":3,  "abilities":["formation"], "emoji":"🥥"},
+      {"name":"Kakamora",       "cost":1,"atk":0,"hp":3,  "abilities":["formation"], "emoji":"🥥"},
+      {"name":"Kakamora",       "cost":1,"atk":0,"hp":3,  "abilities":["formation"], "emoji":"🥥"},
+      {"name":"Kakamora",       "cost":1,"atk":0,"hp":3,  "abilities":["formation"], "emoji":"🥥"},
+      {"name":"Kakamora",       "cost":1,"atk":0,"hp":3,  "abilities":["formation"], "emoji":"🥥"},
+      {"name":"Kakamora",       "cost":1,"atk":0,"hp":3,  "abilities":["formation"], "emoji":"🥥"},
+      {"name":"Heihei",         "cost":1,"atk":0,"hp":1,  "abilities":["wächter"],   "emoji":"🐓"},
+      {"name":"Heihei",         "cost":1,"atk":0,"hp":1,  "abilities":["wächter"],   "emoji":"🐓"},
+      {"name":"Heihei",         "cost":1,"atk":0,"hp":1,  "abilities":["wächter"],   "emoji":"🐓"},
+      {"name":"Heihei",         "cost":1,"atk":0,"hp":1,  "abilities":["wächter"],   "emoji":"🐓"},
+      {"name":"Ozean",          "cost":3,"atk":0,"hp":8,  "abilities":["riesig"],    "emoji":"🌊"},
+      {"name":"Ozean",          "cost":3,"atk":0,"hp":8,  "abilities":["riesig"],    "emoji":"🌊"},
+      {"name":"Ozean",          "cost":3,"atk":0,"hp":8,  "abilities":["riesig"],    "emoji":"🌊"},
+      {"name":"Ozean",          "cost":3,"atk":0,"hp":8,  "abilities":["riesig"],    "emoji":"🌊"},
+      {"name":"Vaiana",         "cost":4,"atk":0,"hp":7,  "abilities":["musik"],     "emoji":"🎵"},
+      {"name":"Vaiana",         "cost":4,"atk":0,"hp":7,  "abilities":["musik"],     "emoji":"🎵"},
+      {"name":"Kakamora Schiff","cost":4,"atk":0,"hp":15, "abilities":["formation"], "emoji":"⛵"},
+      {"name":"Kakamora Schiff","cost":4,"atk":0,"hp":15, "abilities":["formation"], "emoji":"⛵"},
+      {"name":"Kakamora Schiff","cost":4,"atk":0,"hp":15, "abilities":["formation"], "emoji":"⛵"},
+      {"name":"Maui",           "cost":5,"atk":6,"hp":9,  "abilities":[],            "emoji":"🪝"},
+      {"name":"Maui",           "cost":5,"atk":6,"hp":9,  "abilities":[],            "emoji":"🪝"},
+      {"name":"Maui",           "cost":5,"atk":6,"hp":9,  "abilities":[],            "emoji":"🪝"},
+      {"name":"Matangi",        "cost":5,"atk":4,"hp":7,  "abilities":["hinterhalt"],"emoji":"🌀"},
+      {"name":"Matangi",        "cost":5,"atk":4,"hp":7,  "abilities":["hinterhalt"],"emoji":"🌀"}
+    ]
+  },
+
